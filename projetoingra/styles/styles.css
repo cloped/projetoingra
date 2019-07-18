@@ -1,0 +1,160 @@
+body {
+    background-image: url("../img/brawl-stars-pattern.png");
+    background-repeat: repeat;
+    background-size: 10%;
+}
+
+/* .nav-link{
+    color: #fff !important;
+} */
+
+.curiosidades {
+    box-shadow: inset 0px 0px 180px 0px rgba(0,0,0,0.75);
+}
+
+.card-personagem {
+    width: 20%;
+}
+
+.foto-personagem {
+    height: 180px;
+}
+
+.container-personagem {
+    background-color: white;
+    border-radius: 7px;
+}
+
+.root {
+    display: block;
+    margin: 0 auto;
+}
+
+.link-logo {
+    display: inline-block;
+    margin-right: 10px;
+}
+.logodica{
+    width: 10px;
+    height: 10px;
+    margin-right: 1px;
+
+}
+.link-dica {
+    display: inline-block;
+    margin-right: 1px;
+}
+
+.logo {
+    width: 20px;
+    height: 20px;
+}
+.img-hist{
+    width: 600px;
+    height: 300px;
+    display: block;
+  
+}
+.imagem-perfil {
+    width: 50px;
+    height: 50px;
+}
+
+.regra {
+    background-color:  #007bff;
+    border-color: #007bff;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+     padding: 0 12px;
+}
+
+
+.textR {
+    padding: 12px 0;
+}
+
+.blocoRegra{
+    background-color:rgb(230, 222, 236);
+    border-radius: 6px 6px 6px 6px;
+    overflow: visible;
+    word-wrap: break-word;
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+   
+    
+
+}
+
+.elementoReg{
+    padding: 12px;
+    
+}
+.linha{
+     border-bottom: 0.1rem solid #c0c0c0;
+
+}
+.bloco{
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: 500;
+     /* line-height: 1px;  */
+    /* border-bottom: 1px solid var(--newCommunityTheme-widgetColors-lineColor); */
+    padding: 9px 0;
+}
+.dica escondido {
+    font-size: 15px;
+    font-weight: 500;
+     /* line-height: 1px;  */
+    /* border-bottom: 1px solid var(--newCommunityTheme-widgetColors-lineColor); */
+    padding: 9px 0;
+
+}
+.dica{
+    height: auto;
+}
+.escondido{
+    display: none;
+}
+/* .dois{
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1px;
+    border-bottom: 1px solid var(--newCommunityTheme-widgetColors-lineColor);
+    padding: 9px 0;
+    
+}
+.tres{
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1px;
+    border-bottom: 1px solid var(--newCommunityTheme-widgetColors-lineColor);
+    padding: 9px 0;
+    
+} */
+
+.todacol {
+    background-color:rgb(230, 222, 236);
+    border-radius: 6px 6px 6px 6px;
+    overflow: visible;
+    word-wrap: break-word;
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+
+}
+.cardMeio{
+    background-image: url("https://www.brawlstarsdicas.com.br/wp-content/uploads/2019/05/nita-brawl-stars-skin-padrao.png");
+    
+}
+.cardP{
+    border: 0;
+}
