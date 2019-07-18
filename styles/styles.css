@@ -20,6 +20,11 @@ body {
     height: 180px;
 }
 
+.container-pe {
+    background-color: white;
+    border-radius: 7px;
+    height: 50px;
+}
 .container-personagem {
     background-color: white;
     border-radius: 7px;
@@ -49,7 +54,21 @@ body {
     width: 20px;
     height: 20px;
 }
+.logot {
+    width: 30px;
+    height: 30px;
+}
+.topo {
+    width: 200px;
+    height: 100px;
+}
 .img-hist{
+    width: 600px;
+    height: 300px;
+    display: block;
+  
+}
+.video-hist{
     width: 600px;
     height: 300px;
     display: block;
@@ -69,8 +88,14 @@ body {
 }
 
 
+
+.textB {
+    padding: 12px 0;
+    text-align: right;
+}
 .textR {
     padding: 12px 0;
+    text-align: left;
 }
 
 .blocoRegra{
